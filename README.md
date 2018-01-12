@@ -1,5 +1,7 @@
 # Progressive GAN in PyTorch
-Implemetatin of Progressive Growing of GANs in PyTorch
+Implementation of Progressive Growing of GANs (https://arxiv.org/abs/1710.10196) in PyTorch
+
+Currently implemented and tested up to 128x128 images.
 
 Usage:
 
